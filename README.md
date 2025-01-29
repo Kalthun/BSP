@@ -1,3 +1,7 @@
 # Buyer-Seller-Problem
 
 [Paper](Buyer-Seller-Problem.pdf)
+
+# Sample Output
+
+[main file](BSP.ipynb)
